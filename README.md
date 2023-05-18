@@ -24,7 +24,7 @@ Contributions to the project are welcome! If you have any ideas, suggestions, or
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license). Please refer to the LICENSE file for more information.
+This project is licensed under the [GNU General Public License (GPL)](/LICENSE). Please refer to the LICENSE file for more information.
 
 ## Acknowledgements
 
